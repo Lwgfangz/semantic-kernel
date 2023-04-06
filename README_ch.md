@@ -6,12 +6,11 @@
 [![dotnet](https://github.com/microsoft/semantic-kernel/actions/workflows/dotnet-ci.yml/badge.svg?branch=main)](https://github.com/microsoft/semantic-kernel/actions/workflows/dotnet-ci.yml)
 [![Discord](https://img.shields.io/discord/1063152441819942922)](https://aka.ms/SKDiscord)
 
-> ℹ️ **NOTE**: This project is in early alpha and, just like AI, will evolve quickly.
-> We invite you to join us in developing the Semantic Kernel together!
-> Please contribute by
-> using GitHub [Discussions](https://github.com/microsoft/semantic-kernel/discussions),
-> opening GitHub [Issues](https://github.com/microsoft/semantic-kernel/issues/new/choose),
-> sending us [PRs](https://github.com/microsoft/semantic-kernel/pulls).
+> ℹ️ **NOTE**: 注意：此项目处于早期 alpha 阶段，与 AI 一样，将迅速发展。我们邀请您与我们一起共同开发语义内核！
+> 请通过使用 GitHub [Discussions](https://github.com/microsoft/semantic-kernel/discussions),
+> 打开 GitHub [Issues](https://github.com/microsoft/semantic-kernel/issues/new/choose),
+> 发送 [PRs](https://github.com/microsoft/semantic-kernel/pulls).
+> 来为项目做贡献。
 
 **Semantic Kernel (SK)** is a lightweight SDK enabling integration of AI Large
 Language Models (LLMs) with conventional programming languages. The SK extensible
