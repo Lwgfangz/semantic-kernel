@@ -1,3 +1,4 @@
+English | [简体中文](README_ch.md) 
 # Semantic Kernel
 
 [![Nuget package](https://img.shields.io/nuget/vpre/Microsoft.SemanticKernel)](https://www.nuget.org/packages/Microsoft.SemanticKernel/)
